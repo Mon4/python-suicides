@@ -26,11 +26,13 @@ statistic=-0.6706151057111899, pvalue=0.2695987630464987
 
 I reject H0, statistic<=-pvalue.
 
+
 2.	X2019 < X2021
 
 statistic=-0.5053201515202752, pvalue=0.3199531879287444
 
 I reject H0, statistic<=-pvalue.
+
 
 3.	X2020 < X2021
 
