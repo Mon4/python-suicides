@@ -11,6 +11,7 @@ Some of used data.
 ![obraz](https://user-images.githubusercontent.com/44522588/226143305-d24f9038-73ba-493f-aab9-34d7f8f3eeb6.png)
 
  Let's take a first look at the data.
+ 
  ![obraz](https://user-images.githubusercontent.com/44522588/226143316-fe12bcc6-ccf9-4235-be58-1db7d71188bc.png)
 
  
