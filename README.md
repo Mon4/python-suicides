@@ -21,13 +21,23 @@ I’ve made a t-test of two mean values, where hypotheses were:
 H0: X1=X2
 H1: X1<X2
 1.	X2018 < X2021
-statistic=-0.6706151057111899, pvalue=0.2695987630464987
+
+statistic=-0.6706151057111899, 
+
+pvalue=0.2695987630464987
+
 I reject H0, statistic<=-pvalue. 
 2.	X2019 < X2021
+
 statistic=-0.5053201515202752, pvalue=0.3199531879287444
+
 I reject H0, statistic<=-pvalue. 
 3.	X2020 < X2021
-statistic=-0.5557707058263687, pvalue=0.3039931563573781
+4.	
+statistic=-0.5557707058263687, 
+
+pvalue=0.3039931563573781
+
 I reject H0, statistic<=-pvalue.
 
 In 2021 significantly more young people tried suicide than before.
