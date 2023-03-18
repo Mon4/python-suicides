@@ -1,7 +1,6 @@
-# python-suicides
-
 Author: Monika Etrych
-# The suicides in Poland (2018-2021)
+
+# The suicides in Poland (2018-2021) - python
 The goal of this task is to determine whether the number of suicides in young people was significantly greater in the last year (2021, the most recent year for which data is available) than in previous years.
 
 I assume that individuals up to 24 years of age are considered young people.
